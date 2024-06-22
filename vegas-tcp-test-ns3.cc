@@ -1,4 +1,3 @@
-./waf --run scratch/vegas_simulation
 #include "ns3/core-module.h"
 #include "ns3/network-module.h"
 #include "ns3/internet-module.h"
@@ -173,4 +172,29 @@ main (int argc, char *argv[])
         Simulator::Run ();
 
         // Print throughput and other metrics
-        Ptr<Ipv4FlowClassifier> classifier = DynamicCast<Ipv4FlowClassifier> (flowmon.GetClassifi
+        Ptr<Ipv4FlowClassifier> classifier = DynamicCast<Ipv4FlowClassifier> (flowmon.GetClassifier ());
+        FlowMonitor::FlowStatsContainer stats = monitor->GetFlowStats ();
+
+        double totalThroughput = 0;
+        for (auto iter = stats.begin (); iter != stats.end (); ++iter)
+        {
+          Ipv4FlowClassifier::FiveTuple t = classifier->FindFlow (iter->first);
+          NS_LOG_INFO ("Alpha: " << alpha << " Beta: " << beta << " FileSize: " << fileSize << "MB");
+          NS_LOG_INFO ("Flow ID: " << iter->first << " Src Addr " << t.sourceAddress << " Dst Addr " << t.destinationAddress);
+          NS_LOG_INFO ("Tx Packets = " << iter->second.txPackets);
+          NS_LOG_INFO ("Rx Packets = " << iter->second.rxPackets);
+          NS_LOG_INFO ("Duration: " << (iter->second.timeLastRxPacket.GetSeconds () - iter->second.timeFirstTxPacket.GetSeconds ()));
+          NS_LOG_INFO ("Throughput: " << iter->second.rxBytes * 8.0 / (iter->second.timeLastRxPacket.GetSeconds () - iter->second.timeFirstTxPacket.GetSeconds ()) / 1024 / 1024 << " Mbps");
+
+          totalThroughput += iter->second.rxBytes * 8.0 / (iter->second.timeLastRxPacket.GetSeconds () - iter->second.timeFirstTxPacket.GetSeconds ()) / 1024 / 1024;
+        }
+
+        NS_LOG_INFO ("Total Throughput: " << totalThroughput << " Mbps");
+
+        Simulator::Destroy ();
+      }
+    }
+  }
+
+  return 0;
+}

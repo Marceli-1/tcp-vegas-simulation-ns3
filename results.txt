@@ -1,0 +1,5200 @@
+Alpha: 1 Beta: 1 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 1 Beta: 1 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 1 Beta: 1 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 1 Beta: 1 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 1 Beta: 1 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 1 Beta: 1 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 1 Beta: 1 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 1 Beta: 1 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 1 Beta: 2 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 1 Beta: 2 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 1 Beta: 2 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 1 Beta: 2 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 1 Beta: 2 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 1 Beta: 2 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 1 Beta: 2 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 1 Beta: 2 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 1 Beta: 3 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 1 Beta: 3 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 1 Beta: 3 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 1 Beta: 3 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 1 Beta: 3 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 1 Beta: 3 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 1 Beta: 3 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 1 Beta: 3 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 1 Beta: 4 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 1 Beta: 4 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 1 Beta: 4 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 1 Beta: 4 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 1 Beta: 4 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 1 Beta: 4 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 1 Beta: 4 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 1 Beta: 4 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 1 Beta: 5 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 1 Beta: 5 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 1 Beta: 5 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 1 Beta: 5 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 1 Beta: 5 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 1 Beta: 5 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 1 Beta: 5 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 1 Beta: 5 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 1 Beta: 6 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 1 Beta: 6 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 1 Beta: 6 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 1 Beta: 6 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 1 Beta: 6 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 1 Beta: 6 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 1 Beta: 6 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 1 Beta: 6 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 1 Beta: 7 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 1 Beta: 7 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 1 Beta: 7 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 1 Beta: 7 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 1 Beta: 7 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 1 Beta: 7 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 1 Beta: 7 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 1 Beta: 7 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 1 Beta: 8 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 1 Beta: 8 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 1 Beta: 8 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 1 Beta: 8 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 1 Beta: 8 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 1 Beta: 8 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 1 Beta: 8 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 1 Beta: 8 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 1 Beta: 9 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 1 Beta: 9 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 1 Beta: 9 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 1 Beta: 9 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 1 Beta: 9 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 1 Beta: 9 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 1 Beta: 9 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 1 Beta: 9 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 1 Beta: 10 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 1 Beta: 10 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 1 Beta: 10 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 1 Beta: 10 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 1 Beta: 10 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 1 Beta: 10 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 1 Beta: 10 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 1 Beta: 10 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 2 Beta: 1 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 2 Beta: 1 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 2 Beta: 1 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 2 Beta: 1 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 2 Beta: 1 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 2 Beta: 1 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 2 Beta: 1 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 2 Beta: 1 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 2 Beta: 2 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 2 Beta: 2 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 2 Beta: 2 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 2 Beta: 2 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 2 Beta: 2 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 2 Beta: 2 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 2 Beta: 2 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 2 Beta: 2 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 2 Beta: 3 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 2 Beta: 3 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 2 Beta: 3 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 2 Beta: 3 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 2 Beta: 3 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 2 Beta: 3 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 2 Beta: 3 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 2 Beta: 3 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 2 Beta: 4 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 2 Beta: 4 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 2 Beta: 4 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 2 Beta: 4 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 2 Beta: 4 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 2 Beta: 4 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 2 Beta: 4 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 2 Beta: 4 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 2 Beta: 5 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 2 Beta: 5 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 2 Beta: 5 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 2 Beta: 5 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 2 Beta: 5 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 2 Beta: 5 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 2 Beta: 5 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 2 Beta: 5 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 2 Beta: 6 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 2 Beta: 6 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 2 Beta: 6 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 2 Beta: 6 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 2 Beta: 6 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 2 Beta: 6 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 2 Beta: 6 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 2 Beta: 6 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 2 Beta: 7 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 2 Beta: 7 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 2 Beta: 7 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 2 Beta: 7 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 2 Beta: 7 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 2 Beta: 7 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 2 Beta: 7 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 2 Beta: 7 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 2 Beta: 8 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 2 Beta: 8 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 2 Beta: 8 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 2 Beta: 8 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 2 Beta: 8 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 2 Beta: 8 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 2 Beta: 8 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 2 Beta: 8 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 2 Beta: 9 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 2 Beta: 9 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 2 Beta: 9 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 2 Beta: 9 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 2 Beta: 9 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 2 Beta: 9 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 2 Beta: 9 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 2 Beta: 9 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 2 Beta: 10 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 2 Beta: 10 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 2 Beta: 10 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 2 Beta: 10 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 2 Beta: 10 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 2 Beta: 10 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 2 Beta: 10 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 2 Beta: 10 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 3 Beta: 1 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 3 Beta: 1 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 3 Beta: 1 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 3 Beta: 1 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 3 Beta: 1 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 3 Beta: 1 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 3 Beta: 1 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 3 Beta: 1 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 3 Beta: 2 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 3 Beta: 2 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 3 Beta: 2 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 3 Beta: 2 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 3 Beta: 2 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 3 Beta: 2 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 3 Beta: 2 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 3 Beta: 2 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 3 Beta: 3 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 3 Beta: 3 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 3 Beta: 3 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 3 Beta: 3 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 3 Beta: 3 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 3 Beta: 3 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 3 Beta: 3 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 3 Beta: 3 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 3 Beta: 4 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 3 Beta: 4 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 3 Beta: 4 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 3 Beta: 4 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 3 Beta: 4 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 3 Beta: 4 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 3 Beta: 4 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 3 Beta: 4 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 3 Beta: 5 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 3 Beta: 5 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 3 Beta: 5 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 3 Beta: 5 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 3 Beta: 5 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 3 Beta: 5 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 3 Beta: 5 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 3 Beta: 5 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 3 Beta: 6 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 3 Beta: 6 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 3 Beta: 6 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 3 Beta: 6 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 3 Beta: 6 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 3 Beta: 6 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 3 Beta: 6 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 3 Beta: 6 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 3 Beta: 7 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 3 Beta: 7 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 3 Beta: 7 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 3 Beta: 7 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 3 Beta: 7 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 3 Beta: 7 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 3 Beta: 7 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 3 Beta: 7 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 3 Beta: 8 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 3 Beta: 8 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 3 Beta: 8 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 3 Beta: 8 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 3 Beta: 8 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 3 Beta: 8 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 3 Beta: 8 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 3 Beta: 8 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 3 Beta: 9 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 3 Beta: 9 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 3 Beta: 9 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 3 Beta: 9 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 3 Beta: 9 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 3 Beta: 9 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 3 Beta: 9 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 3 Beta: 9 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 3 Beta: 10 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 3 Beta: 10 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 3 Beta: 10 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 3 Beta: 10 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 3 Beta: 10 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 3 Beta: 10 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 3 Beta: 10 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 3 Beta: 10 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 4 Beta: 1 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 4 Beta: 1 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 4 Beta: 1 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 4 Beta: 1 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 4 Beta: 1 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 4 Beta: 1 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 4 Beta: 1 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 4 Beta: 1 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 4 Beta: 2 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 4 Beta: 2 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 4 Beta: 2 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 4 Beta: 2 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 4 Beta: 2 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 4 Beta: 2 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 4 Beta: 2 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 4 Beta: 2 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 4 Beta: 3 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 4 Beta: 3 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 4 Beta: 3 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 4 Beta: 3 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 4 Beta: 3 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 4 Beta: 3 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 4 Beta: 3 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 4 Beta: 3 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 4 Beta: 4 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 4 Beta: 4 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 4 Beta: 4 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 4 Beta: 4 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 4 Beta: 4 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 4 Beta: 4 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 4 Beta: 4 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 4 Beta: 4 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 4 Beta: 5 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 4 Beta: 5 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 4 Beta: 5 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 4 Beta: 5 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 4 Beta: 5 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 4 Beta: 5 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 4 Beta: 5 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 4 Beta: 5 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 4 Beta: 6 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 4 Beta: 6 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 4 Beta: 6 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 4 Beta: 6 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 4 Beta: 6 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 4 Beta: 6 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 4 Beta: 6 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 4 Beta: 6 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 4 Beta: 7 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 4 Beta: 7 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 4 Beta: 7 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 4 Beta: 7 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 4 Beta: 7 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 4 Beta: 7 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 4 Beta: 7 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 4 Beta: 7 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 4 Beta: 8 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 4 Beta: 8 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 4 Beta: 8 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 4 Beta: 8 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 4 Beta: 8 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 4 Beta: 8 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 4 Beta: 8 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 4 Beta: 8 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 4 Beta: 9 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 4 Beta: 9 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 4 Beta: 9 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 4 Beta: 9 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 4 Beta: 9 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 4 Beta: 9 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 4 Beta: 9 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 4 Beta: 9 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 4 Beta: 10 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 4 Beta: 10 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 4 Beta: 10 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 4 Beta: 10 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 4 Beta: 10 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 4 Beta: 10 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 4 Beta: 10 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 4 Beta: 10 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 5 Beta: 1 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 5 Beta: 1 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 5 Beta: 1 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 5 Beta: 1 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 5 Beta: 1 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 5 Beta: 1 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 5 Beta: 1 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 5 Beta: 1 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 5 Beta: 2 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 5 Beta: 2 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 5 Beta: 2 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 5 Beta: 2 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 5 Beta: 2 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 5 Beta: 2 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 5 Beta: 2 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 5 Beta: 2 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 5 Beta: 3 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 5 Beta: 3 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 5 Beta: 3 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 5 Beta: 3 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 5 Beta: 3 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 5 Beta: 3 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 5 Beta: 3 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 5 Beta: 3 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 5 Beta: 4 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 5 Beta: 4 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 5 Beta: 4 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 5 Beta: 4 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 5 Beta: 4 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 5 Beta: 4 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 5 Beta: 4 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 5 Beta: 4 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 5 Beta: 5 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 5 Beta: 5 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 5 Beta: 5 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 5 Beta: 5 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 5 Beta: 5 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 5 Beta: 5 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 5 Beta: 5 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 5 Beta: 5 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 5 Beta: 6 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 5 Beta: 6 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 5 Beta: 6 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 5 Beta: 6 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 5 Beta: 6 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 5 Beta: 6 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 5 Beta: 6 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 5 Beta: 6 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 5 Beta: 7 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 5 Beta: 7 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 5 Beta: 7 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 5 Beta: 7 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 5 Beta: 7 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 5 Beta: 7 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 5 Beta: 7 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 5 Beta: 7 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 5 Beta: 8 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 5 Beta: 8 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 5 Beta: 8 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 5 Beta: 8 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 5 Beta: 8 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 5 Beta: 8 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 5 Beta: 8 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 5 Beta: 8 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 5 Beta: 9 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 5 Beta: 9 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 5 Beta: 9 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 5 Beta: 9 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 5 Beta: 9 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 5 Beta: 9 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 5 Beta: 9 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 5 Beta: 9 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 5 Beta: 10 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 5 Beta: 10 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 5 Beta: 10 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 5 Beta: 10 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 5 Beta: 10 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 5 Beta: 10 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 5 Beta: 10 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 5 Beta: 10 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 6 Beta: 1 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 6 Beta: 1 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 6 Beta: 1 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 6 Beta: 1 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 6 Beta: 1 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 6 Beta: 1 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 6 Beta: 1 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 6 Beta: 1 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 6 Beta: 2 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 6 Beta: 2 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 6 Beta: 2 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 6 Beta: 2 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 6 Beta: 2 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 6 Beta: 2 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 6 Beta: 2 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 6 Beta: 2 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 6 Beta: 3 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 6 Beta: 3 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 6 Beta: 3 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 6 Beta: 3 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 6 Beta: 3 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 6 Beta: 3 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 6 Beta: 3 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 6 Beta: 3 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 6 Beta: 4 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 6 Beta: 4 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 6 Beta: 4 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 6 Beta: 4 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 6 Beta: 4 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 6 Beta: 4 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 6 Beta: 4 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 6 Beta: 4 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 6 Beta: 5 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 6 Beta: 5 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 6 Beta: 5 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 6 Beta: 5 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 6 Beta: 5 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 6 Beta: 5 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 6 Beta: 5 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 6 Beta: 5 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 6 Beta: 6 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 6 Beta: 6 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 6 Beta: 6 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 6 Beta: 6 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 6 Beta: 6 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 6 Beta: 6 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 6 Beta: 6 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 6 Beta: 6 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 6 Beta: 7 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 6 Beta: 7 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 6 Beta: 7 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 6 Beta: 7 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 6 Beta: 7 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 6 Beta: 7 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 6 Beta: 7 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 6 Beta: 7 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 6 Beta: 8 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 6 Beta: 8 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 6 Beta: 8 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 6 Beta: 8 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 6 Beta: 8 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 6 Beta: 8 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 6 Beta: 8 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 6 Beta: 8 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 6 Beta: 9 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 6 Beta: 9 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 6 Beta: 9 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 6 Beta: 9 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 6 Beta: 9 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 6 Beta: 9 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 6 Beta: 9 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 6 Beta: 9 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 6 Beta: 10 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 6 Beta: 10 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 6 Beta: 10 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 6 Beta: 10 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 6 Beta: 10 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 6 Beta: 10 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 6 Beta: 10 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 6 Beta: 10 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 7 Beta: 1 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 7 Beta: 1 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 7 Beta: 1 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 7 Beta: 1 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 7 Beta: 1 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 7 Beta: 1 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 7 Beta: 1 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 7 Beta: 1 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 7 Beta: 2 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 7 Beta: 2 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 7 Beta: 2 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 7 Beta: 2 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 7 Beta: 2 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 7 Beta: 2 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 7 Beta: 2 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 7 Beta: 2 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 7 Beta: 3 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 7 Beta: 3 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 7 Beta: 3 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 7 Beta: 3 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 7 Beta: 3 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 7 Beta: 3 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 7 Beta: 3 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 7 Beta: 3 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 7 Beta: 4 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 7 Beta: 4 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 7 Beta: 4 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 7 Beta: 4 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 7 Beta: 4 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 7 Beta: 4 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 7 Beta: 4 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 7 Beta: 4 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 7 Beta: 5 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 7 Beta: 5 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 7 Beta: 5 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 7 Beta: 5 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 7 Beta: 5 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 7 Beta: 5 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 7 Beta: 5 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 7 Beta: 5 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 7 Beta: 6 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 7 Beta: 6 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 7 Beta: 6 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 7 Beta: 6 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 7 Beta: 6 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 7 Beta: 6 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 7 Beta: 6 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 7 Beta: 6 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 7 Beta: 7 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 7 Beta: 7 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 7 Beta: 7 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 7 Beta: 7 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 7 Beta: 7 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 7 Beta: 7 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 7 Beta: 7 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 7 Beta: 7 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 7 Beta: 8 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 7 Beta: 8 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 7 Beta: 8 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 7 Beta: 8 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 7 Beta: 8 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 7 Beta: 8 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 7 Beta: 8 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 7 Beta: 8 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 7 Beta: 9 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 7 Beta: 9 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 7 Beta: 9 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 7 Beta: 9 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 7 Beta: 9 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 7 Beta: 9 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 7 Beta: 9 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 7 Beta: 9 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 7 Beta: 10 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 7 Beta: 10 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 7 Beta: 10 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 7 Beta: 10 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 7 Beta: 10 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 7 Beta: 10 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 7 Beta: 10 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 7 Beta: 10 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 8 Beta: 1 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 8 Beta: 1 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 8 Beta: 1 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 8 Beta: 1 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 8 Beta: 1 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 8 Beta: 1 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 8 Beta: 1 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 8 Beta: 1 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 8 Beta: 2 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 8 Beta: 2 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 8 Beta: 2 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 8 Beta: 2 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 8 Beta: 2 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 8 Beta: 2 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 8 Beta: 2 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 8 Beta: 2 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 8 Beta: 3 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 8 Beta: 3 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 8 Beta: 3 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 8 Beta: 3 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 8 Beta: 3 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 8 Beta: 3 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 8 Beta: 3 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 8 Beta: 3 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 8 Beta: 4 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 8 Beta: 4 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 8 Beta: 4 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 8 Beta: 4 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 8 Beta: 4 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 8 Beta: 4 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 8 Beta: 4 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 8 Beta: 4 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 8 Beta: 5 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 8 Beta: 5 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 8 Beta: 5 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 8 Beta: 5 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 8 Beta: 5 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 8 Beta: 5 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 8 Beta: 5 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 8 Beta: 5 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 8 Beta: 6 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 8 Beta: 6 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 8 Beta: 6 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 8 Beta: 6 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 8 Beta: 6 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 8 Beta: 6 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 8 Beta: 6 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 8 Beta: 6 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 8 Beta: 7 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 8 Beta: 7 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 8 Beta: 7 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 8 Beta: 7 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 8 Beta: 7 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 8 Beta: 7 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 8 Beta: 7 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 8 Beta: 7 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 8 Beta: 8 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 8 Beta: 8 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 8 Beta: 8 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 8 Beta: 8 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 8 Beta: 8 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 8 Beta: 8 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 8 Beta: 8 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 8 Beta: 8 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 8 Beta: 9 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 8 Beta: 9 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 8 Beta: 9 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 8 Beta: 9 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 8 Beta: 9 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 8 Beta: 9 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 8 Beta: 9 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 8 Beta: 9 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 8 Beta: 10 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 8 Beta: 10 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 8 Beta: 10 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 8 Beta: 10 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 8 Beta: 10 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 8 Beta: 10 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 8 Beta: 10 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 8 Beta: 10 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 9 Beta: 1 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 9 Beta: 1 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 9 Beta: 1 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 9 Beta: 1 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 9 Beta: 1 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 9 Beta: 1 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 9 Beta: 1 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 9 Beta: 1 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 9 Beta: 2 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 9 Beta: 2 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 9 Beta: 2 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 9 Beta: 2 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 9 Beta: 2 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 9 Beta: 2 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 9 Beta: 2 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 9 Beta: 2 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 9 Beta: 3 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 9 Beta: 3 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 9 Beta: 3 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 9 Beta: 3 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 9 Beta: 3 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 9 Beta: 3 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 9 Beta: 3 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 9 Beta: 3 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 9 Beta: 4 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 9 Beta: 4 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 9 Beta: 4 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 9 Beta: 4 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 9 Beta: 4 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 9 Beta: 4 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 9 Beta: 4 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 9 Beta: 4 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 9 Beta: 5 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 9 Beta: 5 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 9 Beta: 5 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 9 Beta: 5 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 9 Beta: 5 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 9 Beta: 5 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 9 Beta: 5 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 9 Beta: 5 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 9 Beta: 6 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 9 Beta: 6 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 9 Beta: 6 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 9 Beta: 6 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 9 Beta: 6 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 9 Beta: 6 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 9 Beta: 6 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 9 Beta: 6 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 9 Beta: 7 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 9 Beta: 7 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 9 Beta: 7 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 9 Beta: 7 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 9 Beta: 7 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 9 Beta: 7 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 9 Beta: 7 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 9 Beta: 7 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 9 Beta: 8 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 9 Beta: 8 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 9 Beta: 8 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 9 Beta: 8 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 9 Beta: 8 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 9 Beta: 8 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 9 Beta: 8 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 9 Beta: 8 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 9 Beta: 9 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 9 Beta: 9 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 9 Beta: 9 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 9 Beta: 9 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 9 Beta: 9 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 9 Beta: 9 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 9 Beta: 9 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 9 Beta: 9 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 9 Beta: 10 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 9 Beta: 10 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 9 Beta: 10 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 9 Beta: 10 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 9 Beta: 10 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 9 Beta: 10 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 9 Beta: 10 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 9 Beta: 10 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 10 Beta: 1 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 10 Beta: 1 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 10 Beta: 1 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 10 Beta: 1 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 10 Beta: 1 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 10 Beta: 1 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 10 Beta: 1 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 10 Beta: 1 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 10 Beta: 2 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 10 Beta: 2 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 10 Beta: 2 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 10 Beta: 2 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 10 Beta: 2 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 10 Beta: 2 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 10 Beta: 2 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 10 Beta: 2 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 10 Beta: 3 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 10 Beta: 3 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 10 Beta: 3 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 10 Beta: 3 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 10 Beta: 3 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 10 Beta: 3 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 10 Beta: 3 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 10 Beta: 3 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 10 Beta: 4 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 10 Beta: 4 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 10 Beta: 4 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 10 Beta: 4 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 10 Beta: 4 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 10 Beta: 4 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 10 Beta: 4 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 10 Beta: 4 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 10 Beta: 5 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 10 Beta: 5 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 10 Beta: 5 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 10 Beta: 5 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 10 Beta: 5 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 10 Beta: 5 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 10 Beta: 5 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 10 Beta: 5 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 10 Beta: 6 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 10 Beta: 6 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 10 Beta: 6 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 10 Beta: 6 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 10 Beta: 6 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 10 Beta: 6 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 10 Beta: 6 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 10 Beta: 6 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 10 Beta: 7 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 10 Beta: 7 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 10 Beta: 7 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 10 Beta: 7 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 10 Beta: 7 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 10 Beta: 7 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 10 Beta: 7 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 10 Beta: 7 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 10 Beta: 8 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 10 Beta: 8 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 10 Beta: 8 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 10 Beta: 8 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 10 Beta: 8 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 10 Beta: 8 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 10 Beta: 8 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 10 Beta: 8 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 10 Beta: 9 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 10 Beta: 9 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 10 Beta: 9 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 10 Beta: 9 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 10 Beta: 9 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 10 Beta: 9 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 10 Beta: 9 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 10 Beta: 9 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 10 Beta: 10 FileSize: 5MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 10 Beta: 10 FileSize: 5MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 10 Beta: 10 FileSize: 10MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 10 Beta: 10 FileSize: 10MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 10 Beta: 10 FileSize: 100MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 10 Beta: 10 FileSize: 100MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
+Alpha: 10 Beta: 10 FileSize: 1000MB
+Flow ID: 1 Src Addr 10.1.1.1 Dst Addr 10.1.1.2
+Tx Packets = 4570
+Rx Packets = 4570
+Duration: 18.9984
+Throughput: 1.04933 Mbps
+Alpha: 10 Beta: 10 FileSize: 1000MB
+Flow ID: 2 Src Addr 10.1.1.2 Dst Addr 10.1.1.1
+Tx Packets = 2285
+Rx Packets = 2285
+Duration: 18.9975
+Throughput: 0.0477197 Mbps
+Total Throughput: 1.09705 Mbps
