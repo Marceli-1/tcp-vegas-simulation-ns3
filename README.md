@@ -1,28 +1,27 @@
 # TCP Vegas Simulation
 
-This repository contains an ns-3 simulation script to evaluate the performance of TCP Vegas under various alpha and beta parameters. The script tests combinations of alpha and beta values ranging from 1 to 10, along with different file sizes (1MB, 100MB, 1GB, 100GB, 1TB, 100TB). Performance metrics such as average throughput are logged for each combination to analyze the efficiency of TCP Vegas.
+This repository contains an ns-3 simulation script to evaluate the performance of TCP Vegas under various alpha, beta, and gamma parameters. The script tests combinations of alpha and beta values ranging from 1 to 30, gamma values from 1 to 3, along with different file sizes (1MB, 100MB, 1GB, 100GB, 1TB, 100TB). Performance metrics such as average throughput are logged for each combination to analyze the efficiency of TCP Vegas.
 
 # Simulation Details
 
 ## Parameters
-- Alpha Values: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
-- Beta Values: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 (greater or equal to alpha)
+- Alpha Values: 1, 2, 3, ..., 30
+- Beta Values: 1, 2, 3, ..., 30 (greater or equal to alpha)
 - Gamma Values: 1, 2, 3
 - File Sizes: 1MB, 100MB, 1GB, 100GB, 1TB, 100TB
 - Packet Size: 1040 bytes
 - Number of Runs: 10,000
 - Packet Loss Rate: 1%
 
-
 # Setup
 
 To run the simulation:
 
-1. Place the vegas_simulation.cc script in the scratch directory of ns-3.
+1. Place the `vegas_simulation.cc` script in the scratch directory of ns-3.
 2. Build the script using waf.
 3. Execute the simulation.
 
-# Example setup using docker:
+# Example setup using Docker:
 
 1. Pull the Docker image (https://github.com/hygorjardim/ns3-docker):
 ```
@@ -59,16 +58,22 @@ cd /usr/ns-allinone-3.30/ns-3.30/
 
 The simulation logs the average throughput for each combination of alpha, beta, and file size into a results.txt file. The format of the output is as follows:
 ```
-Alpha: <alpha> Beta: <beta> FileSize: <fileSize>MB Average Throughput: <throughput> Mbps
+Alpha: <alpha> Beta: <beta> Gamma: <gamma> FileSize: <fileSize>MB Average Throughput: <throughput> Mbps
 ```
 ### Sample of real output:
 ```
-Alpha: 1 Beta: 1 FileSize: 1MB Average Throughput: 0.200992 Mbps
-Alpha: 1 Beta: 1 FileSize: 100MB Average Throughput: 0.200373 Mbps
-Alpha: 1 Beta: 1 FileSize: 1000MB Average Throughput: 0.197651 Mbps
+Alpha: 1 Beta: 1 Gamma: 1 FileSize: 1MB Average Throughput: 0.200992 Mbps
+Alpha: 1 Beta: 1 Gamma: 1 FileSize: 100MB Average Throughput: 0.200373 Mbps
+Alpha: 1 Beta: 1 Gamma: 1 FileSize: 1000MB Average Throughput: 0.197651 Mbps
 ...
 ```
 
 # Example visualization
 
-A Python script "analyze_vegas_results.py" is provided to parse the results and visualize the average throughput for different file sizes.
+A Python script `analyze_vegas_results.py` is provided to parse the results and visualize the average throughput for different file sizes.
+
+## Visualization Features:
+- Bar charts showing the average throughput for each combination of `alpha`, `beta`, and `gamma` values across different file sizes.
+- Violin plots to display the distribution of throughput for each file size, grouped by `alpha` and `beta`.
+- A pairplot to visualize relationships between `alpha`, `beta`, `gamma`, and average throughput.
+- Summary of best and worst throughput results for each file size in `max_min_results.txt`.
