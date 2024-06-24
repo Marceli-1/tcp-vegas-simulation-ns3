@@ -6,8 +6,9 @@ This repository contains an ns-3 simulation script to evaluate the performance o
 
 ## Parameters
 - Alpha Values: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
-- Beta Values: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
-- File Sizes: 1MB, 100MB, 1GB, 100GB, 1TB
+- Beta Values: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 (greater or equal to alpha)
+- Gamma Values: 1, 2, 3
+- File Sizes: 1MB, 100MB, 1GB, 100GB, 1TB, 100TB
 - Packet Size: 1040 bytes
 - Number of Runs: 10,000
 - Packet Loss Rate: 1%
