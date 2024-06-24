@@ -115,9 +115,10 @@ MyApp::ScheduleTx (void)
 int 
 main (int argc, char *argv[])
 {
-  std::vector<uint32_t> alphas = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
-  std::vector<uint32_t> betas = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
-  std::vector<uint64_t> fileSizes = {1, 100, 1000, 10000, 100000, 1000000}; // in MB
+  std::vector<uint32_t> alphas = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30};
+  std::vector<uint32_t> betas = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30};
+  std::vector<uint32_t> gammas = {1, 2, 3};
+  std::vector<uint64_t> fileSizes = {1, 100, 1000, 10000, 100000, 1000000, 100000000}; // in MB, added 100TB
   uint32_t packetSize = 1040; // in bytes
   uint32_t runs = 10000; // Reduced number of runs to 10,000
 
@@ -130,81 +131,88 @@ main (int argc, char *argv[])
   {
     for (uint32_t beta : betas)
     {
-      for (uint64_t fileSize : fileSizes)
+      if (beta >= alpha) // Ensure beta is always higher or equal to alpha
       {
-        double totalThroughputSum = 0;
-        uint32_t nPackets = (fileSize * 1024 * 1024) / packetSize;
-
-        for (uint32_t run = 0; run < runs; ++run)
+        for (uint32_t gamma : gammas)
         {
-          Config::SetDefault ("ns3::TcpL4Protocol::SocketType", TypeIdValue (TcpVegas::GetTypeId ()));
-          Config::SetDefault ("ns3::TcpVegas::Alpha", UintegerValue (alpha));
-          Config::SetDefault ("ns3::TcpVegas::Beta", UintegerValue (beta));
-
-          NodeContainer nodes;
-          nodes.Create (2);
-
-          PointToPointHelper pointToPoint;
-          pointToPoint.SetDeviceAttribute ("DataRate", StringValue ("5Mbps"));
-          pointToPoint.SetChannelAttribute ("Delay", StringValue ("2ms"));
-
-          NetDeviceContainer devices;
-          devices = pointToPoint.Install (nodes);
-
-          // Adding packet loss rate to the channel
-          Ptr<RateErrorModel> em = CreateObject<RateErrorModel> ();
-          em->SetAttribute ("ErrorRate", DoubleValue (0.01)); // 1% packet loss
-          devices.Get (1)->SetAttribute ("ReceiveErrorModel", PointerValue (em));
-
-          InternetStackHelper stack;
-          stack.Install (nodes);
-
-          Ipv4AddressHelper address;
-          address.SetBase ("10.1.1.0", "255.255.255.0");
-
-          Ipv4InterfaceContainer interfaces = address.Assign (devices);
-
-          uint16_t sinkPort = 8080;
-          Address sinkAddress (InetSocketAddress (interfaces.GetAddress (1), sinkPort));
-          PacketSinkHelper packetSinkHelper ("ns3::TcpSocketFactory", InetSocketAddress (Ipv4Address::GetAny (), sinkPort));
-          ApplicationContainer sinkApps = packetSinkHelper.Install (nodes.Get (1));
-          sinkApps.Start (Seconds (0.));
-          sinkApps.Stop (Seconds (20.));
-
-          Ptr<Socket> ns3TcpSocket = Socket::CreateSocket (nodes.Get (0), TcpSocketFactory::GetTypeId ());
-
-          Ptr<MyApp> app = CreateObject<MyApp> ();
-          app->Setup (ns3TcpSocket, sinkAddress, packetSize, nPackets, DataRate ("1Mbps"));
-          nodes.Get (0)->AddApplication (app);
-          app->SetStartTime (Seconds (1.));
-          app->SetStopTime (Seconds (20.));
-
-          FlowMonitorHelper flowmon;
-          Ptr<FlowMonitor> monitor = flowmon.InstallAll ();
-
-          Simulator::Stop (Seconds (20));
-          Simulator::Run ();
-
-          // Print throughput and other metrics
-          Ptr<Ipv4FlowClassifier> classifier = DynamicCast<Ipv4FlowClassifier> (flowmon.GetClassifier ());
-          FlowMonitor::FlowStatsContainer stats = monitor->GetFlowStats ();
-
-          double totalThroughput = 0;
-          for (auto iter = stats.begin (); iter != stats.end (); ++iter)
+          for (uint64_t fileSize : fileSizes)
           {
-            totalThroughput += iter->second.rxBytes * 8.0 / (iter->second.timeLastRxPacket.GetSeconds () - iter->second.timeFirstTxPacket.GetSeconds ()) / 1024 / 1024;
+            double totalThroughputSum = 0;
+            uint32_t nPackets = (fileSize * 1024 * 1024) / packetSize;
+
+            for (uint32_t run = 0; run < runs; ++run)
+            {
+              Config::SetDefault ("ns3::TcpL4Protocol::SocketType", TypeIdValue (TcpVegas::GetTypeId ()));
+              Config::SetDefault ("ns3::TcpVegas::Alpha", UintegerValue (alpha));
+              Config::SetDefault ("ns3::TcpVegas::Beta", UintegerValue (beta));
+              Config::SetDefault ("ns3::TcpVegas::Gamma", UintegerValue (gamma));
+
+              NodeContainer nodes;
+              nodes.Create (2);
+
+              PointToPointHelper pointToPoint;
+              pointToPoint.SetDeviceAttribute ("DataRate", StringValue ("5Mbps"));
+              pointToPoint.SetChannelAttribute ("Delay", StringValue ("2ms"));
+
+              NetDeviceContainer devices;
+              devices = pointToPoint.Install (nodes);
+
+              // Adding packet loss rate to the channel
+              Ptr<RateErrorModel> em = CreateObject<RateErrorModel> ();
+              em->SetAttribute ("ErrorRate", DoubleValue (0.01)); // 1% packet loss
+              devices.Get (1)->SetAttribute ("ReceiveErrorModel", PointerValue (em));
+
+              InternetStackHelper stack;
+              stack.Install (nodes);
+
+              Ipv4AddressHelper address;
+              address.SetBase ("10.1.1.0", "255.255.255.0");
+
+              Ipv4InterfaceContainer interfaces = address.Assign (devices);
+
+              uint16_t sinkPort = 8080;
+              Address sinkAddress (InetSocketAddress (interfaces.GetAddress (1), sinkPort));
+              PacketSinkHelper packetSinkHelper ("ns3::TcpSocketFactory", InetSocketAddress (Ipv4Address::GetAny (), sinkPort));
+              ApplicationContainer sinkApps = packetSinkHelper.Install (nodes.Get (1));
+              sinkApps.Start (Seconds (0.));
+              sinkApps.Stop (Seconds (20.));
+
+              Ptr<Socket> ns3TcpSocket = Socket::CreateSocket (nodes.Get (0), TcpSocketFactory::GetTypeId ());
+
+              Ptr<MyApp> app = CreateObject<MyApp> ();
+              app->Setup (ns3TcpSocket, sinkAddress, packetSize, nPackets, DataRate ("1Mbps"));
+              nodes.Get (0)->AddApplication (app);
+              app->SetStartTime (Seconds (1.));
+              app->SetStopTime (Seconds (20.));
+
+              FlowMonitorHelper flowmon;
+              Ptr<FlowMonitor> monitor = flowmon.InstallAll ();
+
+              Simulator::Stop (Seconds (20));
+              Simulator::Run ();
+
+              // Print throughput and other metrics
+              Ptr<Ipv4FlowClassifier> classifier = DynamicCast<Ipv4FlowClassifier> (flowmon.GetClassifier ());
+              FlowMonitor::FlowStatsContainer stats = monitor->GetFlowStats ();
+
+              double totalThroughput = 0;
+              for (auto iter = stats.begin (); iter != stats.end (); ++iter)
+              {
+                totalThroughput += iter->second.rxBytes * 8.0 / (iter->second.timeLastRxPacket.GetSeconds () - iter->second.timeFirstTxPacket.GetSeconds ()) / 1024 / 1024;
+              }
+
+              totalThroughputSum += totalThroughput;
+
+              Simulator::Destroy ();
+            }
+
+            double averageThroughput = totalThroughputSum / runs;
+            NS_LOG_INFO ("Alpha: " << alpha << " Beta: " << beta << " Gamma: " << gamma << " FileSize: " << fileSize << "MB Average Throughput: " << averageThroughput << " Mbps");
+            resultsFile << std::fixed << std::setprecision(6)
+                        << "Alpha: " << alpha << " Beta: " << beta << " Gamma: " << gamma << " FileSize: " << fileSize << "MB "
+                        << "Average Throughput: " << averageThroughput << " Mbps" << std::endl;
           }
-
-          totalThroughputSum += totalThroughput;
-
-          Simulator::Destroy ();
         }
-
-        double averageThroughput = totalThroughputSum / runs;
-        NS_LOG_INFO ("Alpha: " << alpha << " Beta: " << beta << " FileSize: " << fileSize << "MB Average Throughput: " << averageThroughput << " Mbps");
-        resultsFile << std::fixed << std::setprecision(6)
-                    << "Alpha: " << alpha << " Beta: " << beta << " FileSize: " << fileSize << "MB "
-                    << "Average Throughput: " << averageThroughput << " Mbps" << std::endl;
       }
     }
   }
