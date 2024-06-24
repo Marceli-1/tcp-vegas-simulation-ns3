@@ -1,0 +1,28 @@
+File Size: 1MB
+Best - Alpha: 1.0, Beta: 14.0, Gamma: 1.0, Throughput: 0.20141 Mbps
+Worst - Alpha: 1.0, Beta: 8.0, Gamma: 2.0, Throughput: 0.194878 Mbps
+
+File Size: 100MB
+Best - Alpha: 1.0, Beta: 1.0, Gamma: 1.0, Throughput: 0.200373 Mbps
+Worst - Alpha: 1.0, Beta: 13.0, Gamma: 1.0, Throughput: 0.195341 Mbps
+
+File Size: 1000MB
+Best - Alpha: 1.0, Beta: 2.0, Gamma: 3.0, Throughput: 0.201103 Mbps
+Worst - Alpha: 1.0, Beta: 13.0, Gamma: 3.0, Throughput: 0.194897 Mbps
+
+File Size: 10000MB
+Best - Alpha: 1.0, Beta: 13.0, Gamma: 3.0, Throughput: 0.200586 Mbps
+Worst - Alpha: 1.0, Beta: 4.0, Gamma: 1.0, Throughput: 0.194529 Mbps
+
+File Size: 100000MB
+Best - Alpha: 1.0, Beta: 6.0, Gamma: 3.0, Throughput: 0.199366 Mbps
+Worst - Alpha: 1.0, Beta: 16.0, Gamma: 3.0, Throughput: 0.195294 Mbps
+
+File Size: 1000000MB
+Best - Alpha: 1.0, Beta: 10.0, Gamma: 2.0, Throughput: 0.200073 Mbps
+Worst - Alpha: 1.0, Beta: 1.0, Gamma: 3.0, Throughput: 0.195305 Mbps
+
+File Size: 100000000MB
+Best - Alpha: 1.0, Beta: 7.0, Gamma: 2.0, Throughput: 0.201012 Mbps
+Worst - Alpha: 1.0, Beta: 9.0, Gamma: 2.0, Throughput: 0.195546 Mbps
+

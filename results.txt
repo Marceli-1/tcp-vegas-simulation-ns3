@@ -1,48 +1,353 @@
-Alpha: 1 Beta: 1 FileSize: 1MB Average Throughput: 0.200992 Mbps
-Alpha: 1 Beta: 1 FileSize: 100MB Average Throughput: 0.200373 Mbps
-Alpha: 1 Beta: 1 FileSize: 1000MB Average Throughput: 0.197651 Mbps
-Alpha: 1 Beta: 1 FileSize: 10000MB Average Throughput: 0.198411 Mbps
-Alpha: 1 Beta: 1 FileSize: 100000MB Average Throughput: 0.19695 Mbps
-Alpha: 1 Beta: 1 FileSize: 1000000MB Average Throughput: 0.197367 Mbps
-Alpha: 1 Beta: 2 FileSize: 1MB Average Throughput: 0.198005 Mbps
-Alpha: 1 Beta: 2 FileSize: 100MB Average Throughput: 0.198615 Mbps
-Alpha: 1 Beta: 2 FileSize: 1000MB Average Throughput: 0.196601 Mbps
-Alpha: 1 Beta: 2 FileSize: 10000MB Average Throughput: 0.199117 Mbps
-Alpha: 1 Beta: 2 FileSize: 100000MB Average Throughput: 0.198012 Mbps
-Alpha: 1 Beta: 2 FileSize: 1000000MB Average Throughput: 0.19716 Mbps
-Alpha: 1 Beta: 3 FileSize: 1MB Average Throughput: 0.199104 Mbps
-Alpha: 1 Beta: 3 FileSize: 100MB Average Throughput: 0.197861 Mbps
-Alpha: 1 Beta: 3 FileSize: 1000MB Average Throughput: 0.196656 Mbps
-Alpha: 1 Beta: 3 FileSize: 10000MB Average Throughput: 0.198034 Mbps
-Alpha: 1 Beta: 3 FileSize: 100000MB Average Throughput: 0.197889 Mbps
-Alpha: 1 Beta: 3 FileSize: 1000000MB Average Throughput: 0.19788 Mbps
-Alpha: 1 Beta: 4 FileSize: 1MB Average Throughput: 0.198346 Mbps
-Alpha: 1 Beta: 4 FileSize: 100MB Average Throughput: 0.195305 Mbps
-Alpha: 1 Beta: 4 FileSize: 1000MB Average Throughput: 0.197394 Mbps
-Alpha: 1 Beta: 4 FileSize: 10000MB Average Throughput: 0.197968 Mbps
-Alpha: 1 Beta: 4 FileSize: 100000MB Average Throughput: 0.198315 Mbps
-Alpha: 1 Beta: 4 FileSize: 1000000MB Average Throughput: 0.197749 Mbps
-Alpha: 1 Beta: 5 FileSize: 1MB Average Throughput: 0.197081 Mbps
-Alpha: 1 Beta: 5 FileSize: 100MB Average Throughput: 0.198637 Mbps
-Alpha: 1 Beta: 5 FileSize: 1000MB Average Throughput: 0.197839 Mbps
-Alpha: 1 Beta: 5 FileSize: 10000MB Average Throughput: 0.197183 Mbps
-Alpha: 1 Beta: 5 FileSize: 100000MB Average Throughput: 0.197433 Mbps
-Alpha: 1 Beta: 5 FileSize: 1000000MB Average Throughput: 0.197213 Mbps
-Alpha: 1 Beta: 6 FileSize: 1MB Average Throughput: 0.197568 Mbps
-Alpha: 1 Beta: 6 FileSize: 100MB Average Throughput: 0.196054 Mbps
-Alpha: 1 Beta: 6 FileSize: 1000MB Average Throughput: 0.196853 Mbps
-Alpha: 1 Beta: 6 FileSize: 10000MB Average Throughput: 0.199836 Mbps
-Alpha: 1 Beta: 6 FileSize: 100000MB Average Throughput: 0.198 Mbps
-Alpha: 1 Beta: 6 FileSize: 1000000MB Average Throughput: 0.199519 Mbps
-Alpha: 1 Beta: 7 FileSize: 1MB Average Throughput: 0.199839 Mbps
-Alpha: 1 Beta: 7 FileSize: 100MB Average Throughput: 0.201103 Mbps
-Alpha: 1 Beta: 7 FileSize: 1000MB Average Throughput: 0.200393 Mbps
-Alpha: 1 Beta: 7 FileSize: 10000MB Average Throughput: 0.196764 Mbps
-Alpha: 1 Beta: 7 FileSize: 100000MB Average Throughput: 0.196918 Mbps
-Alpha: 1 Beta: 7 FileSize: 1000000MB Average Throughput: 0.198162 Mbps
-Alpha: 1 Beta: 8 FileSize: 1MB Average Throughput: 0.198304 Mbps
-Alpha: 1 Beta: 8 FileSize: 100MB Average Throughput: 0.19896 Mbps
-Alpha: 1 Beta: 8 FileSize: 1000MB Average Throughput: 0.197694 Mbps
-Alpha: 1 Beta: 8 FileSize: 10000MB Average Throughput: 0.198282 Mbps
-Alpha: 1 Beta: 8 FileSize: 100000MB Average Throughput: 0.19755 Mbps
-Alpha: 1 Beta: 8 FileSize: 1000000MB Average Throughput: 0.197862 
+Alpha: 1 Beta: 1 Gamma: 1 FileSize: 1MB Average Throughput: 0.200992 Mbps
+Alpha: 1 Beta: 1 Gamma: 1 FileSize: 100MB Average Throughput: 0.200373 Mbps
+Alpha: 1 Beta: 1 Gamma: 1 FileSize: 1000MB Average Throughput: 0.197651 Mbps
+Alpha: 1 Beta: 1 Gamma: 1 FileSize: 10000MB Average Throughput: 0.198411 Mbps
+Alpha: 1 Beta: 1 Gamma: 1 FileSize: 100000MB Average Throughput: 0.19695 Mbps
+Alpha: 1 Beta: 1 Gamma: 1 FileSize: 1000000MB Average Throughput: 0.197367 Mbps
+Alpha: 1 Beta: 1 Gamma: 1 FileSize: 100000000MB Average Throughput: 0.198005 Mbps
+Alpha: 1 Beta: 1 Gamma: 2 FileSize: 1MB Average Throughput: 0.198615 Mbps
+Alpha: 1 Beta: 1 Gamma: 2 FileSize: 100MB Average Throughput: 0.196601 Mbps
+Alpha: 1 Beta: 1 Gamma: 2 FileSize: 1000MB Average Throughput: 0.199117 Mbps
+Alpha: 1 Beta: 1 Gamma: 2 FileSize: 10000MB Average Throughput: 0.198012 Mbps
+Alpha: 1 Beta: 1 Gamma: 2 FileSize: 100000MB Average Throughput: 0.19716 Mbps
+Alpha: 1 Beta: 1 Gamma: 2 FileSize: 1000000MB Average Throughput: 0.199104 Mbps
+Alpha: 1 Beta: 1 Gamma: 2 FileSize: 100000000MB Average Throughput: 0.197861 Mbps
+Alpha: 1 Beta: 1 Gamma: 3 FileSize: 1MB Average Throughput: 0.196656 Mbps
+Alpha: 1 Beta: 1 Gamma: 3 FileSize: 100MB Average Throughput: 0.198034 Mbps
+Alpha: 1 Beta: 1 Gamma: 3 FileSize: 1000MB Average Throughput: 0.197889 Mbps
+Alpha: 1 Beta: 1 Gamma: 3 FileSize: 10000MB Average Throughput: 0.19788 Mbps
+Alpha: 1 Beta: 1 Gamma: 3 FileSize: 100000MB Average Throughput: 0.198346 Mbps
+Alpha: 1 Beta: 1 Gamma: 3 FileSize: 1000000MB Average Throughput: 0.195305 Mbps
+Alpha: 1 Beta: 1 Gamma: 3 FileSize: 100000000MB Average Throughput: 0.197394 Mbps
+Alpha: 1 Beta: 2 Gamma: 1 FileSize: 1MB Average Throughput: 0.197968 Mbps
+Alpha: 1 Beta: 2 Gamma: 1 FileSize: 100MB Average Throughput: 0.198315 Mbps
+Alpha: 1 Beta: 2 Gamma: 1 FileSize: 1000MB Average Throughput: 0.197749 Mbps
+Alpha: 1 Beta: 2 Gamma: 1 FileSize: 10000MB Average Throughput: 0.197081 Mbps
+Alpha: 1 Beta: 2 Gamma: 1 FileSize: 100000MB Average Throughput: 0.198637 Mbps
+Alpha: 1 Beta: 2 Gamma: 1 FileSize: 1000000MB Average Throughput: 0.197839 Mbps
+Alpha: 1 Beta: 2 Gamma: 1 FileSize: 100000000MB Average Throughput: 0.197183 Mbps
+Alpha: 1 Beta: 2 Gamma: 2 FileSize: 1MB Average Throughput: 0.197433 Mbps
+Alpha: 1 Beta: 2 Gamma: 2 FileSize: 100MB Average Throughput: 0.197213 Mbps
+Alpha: 1 Beta: 2 Gamma: 2 FileSize: 1000MB Average Throughput: 0.197568 Mbps
+Alpha: 1 Beta: 2 Gamma: 2 FileSize: 10000MB Average Throughput: 0.196054 Mbps
+Alpha: 1 Beta: 2 Gamma: 2 FileSize: 100000MB Average Throughput: 0.196853 Mbps
+Alpha: 1 Beta: 2 Gamma: 2 FileSize: 1000000MB Average Throughput: 0.199836 Mbps
+Alpha: 1 Beta: 2 Gamma: 2 FileSize: 100000000MB Average Throughput: 0.198 Mbps
+Alpha: 1 Beta: 2 Gamma: 3 FileSize: 1MB Average Throughput: 0.199519 Mbps
+Alpha: 1 Beta: 2 Gamma: 3 FileSize: 100MB Average Throughput: 0.199839 Mbps
+Alpha: 1 Beta: 2 Gamma: 3 FileSize: 1000MB Average Throughput: 0.201103 Mbps
+Alpha: 1 Beta: 2 Gamma: 3 FileSize: 10000MB Average Throughput: 0.200393 Mbps
+Alpha: 1 Beta: 2 Gamma: 3 FileSize: 100000MB Average Throughput: 0.196764 Mbps
+Alpha: 1 Beta: 2 Gamma: 3 FileSize: 1000000MB Average Throughput: 0.196918 Mbps
+Alpha: 1 Beta: 2 Gamma: 3 FileSize: 100000000MB Average Throughput: 0.198162 Mbps
+Alpha: 1 Beta: 3 Gamma: 1 FileSize: 1MB Average Throughput: 0.198304 Mbps
+Alpha: 1 Beta: 3 Gamma: 1 FileSize: 100MB Average Throughput: 0.19896 Mbps
+Alpha: 1 Beta: 3 Gamma: 1 FileSize: 1000MB Average Throughput: 0.197694 Mbps
+Alpha: 1 Beta: 3 Gamma: 1 FileSize: 10000MB Average Throughput: 0.198282 Mbps
+Alpha: 1 Beta: 3 Gamma: 1 FileSize: 100000MB Average Throughput: 0.19755 Mbps
+Alpha: 1 Beta: 3 Gamma: 1 FileSize: 1000000MB Average Throughput: 0.197862 Mbps
+Alpha: 1 Beta: 3 Gamma: 1 FileSize: 100000000MB Average Throughput: 0.196619 Mbps
+Alpha: 1 Beta: 3 Gamma: 2 FileSize: 1MB Average Throughput: 0.198458 Mbps
+Alpha: 1 Beta: 3 Gamma: 2 FileSize: 100MB Average Throughput: 0.197751 Mbps
+Alpha: 1 Beta: 3 Gamma: 2 FileSize: 1000MB Average Throughput: 0.199303 Mbps
+Alpha: 1 Beta: 3 Gamma: 2 FileSize: 10000MB Average Throughput: 0.197385 Mbps
+Alpha: 1 Beta: 3 Gamma: 2 FileSize: 100000MB Average Throughput: 0.198726 Mbps
+Alpha: 1 Beta: 3 Gamma: 2 FileSize: 1000000MB Average Throughput: 0.195833 Mbps
+Alpha: 1 Beta: 3 Gamma: 2 FileSize: 100000000MB Average Throughput: 0.198293 Mbps
+Alpha: 1 Beta: 3 Gamma: 3 FileSize: 1MB Average Throughput: 0.198837 Mbps
+Alpha: 1 Beta: 3 Gamma: 3 FileSize: 100MB Average Throughput: 0.199276 Mbps
+Alpha: 1 Beta: 3 Gamma: 3 FileSize: 1000MB Average Throughput: 0.197361 Mbps
+Alpha: 1 Beta: 3 Gamma: 3 FileSize: 10000MB Average Throughput: 0.196859 Mbps
+Alpha: 1 Beta: 3 Gamma: 3 FileSize: 100000MB Average Throughput: 0.197912 Mbps
+Alpha: 1 Beta: 3 Gamma: 3 FileSize: 1000000MB Average Throughput: 0.196546 Mbps
+Alpha: 1 Beta: 3 Gamma: 3 FileSize: 100000000MB Average Throughput: 0.19804 Mbps
+Alpha: 1 Beta: 4 Gamma: 1 FileSize: 1MB Average Throughput: 0.200125 Mbps
+Alpha: 1 Beta: 4 Gamma: 1 FileSize: 100MB Average Throughput: 0.197201 Mbps
+Alpha: 1 Beta: 4 Gamma: 1 FileSize: 1000MB Average Throughput: 0.195117 Mbps
+Alpha: 1 Beta: 4 Gamma: 1 FileSize: 10000MB Average Throughput: 0.194529 Mbps
+Alpha: 1 Beta: 4 Gamma: 1 FileSize: 100000MB Average Throughput: 0.196745 Mbps
+Alpha: 1 Beta: 4 Gamma: 1 FileSize: 1000000MB Average Throughput: 0.19747 Mbps
+Alpha: 1 Beta: 4 Gamma: 1 FileSize: 100000000MB Average Throughput: 0.199032 Mbps
+Alpha: 1 Beta: 4 Gamma: 2 FileSize: 1MB Average Throughput: 0.197911 Mbps
+Alpha: 1 Beta: 4 Gamma: 2 FileSize: 100MB Average Throughput: 0.197204 Mbps
+Alpha: 1 Beta: 4 Gamma: 2 FileSize: 1000MB Average Throughput: 0.197388 Mbps
+Alpha: 1 Beta: 4 Gamma: 2 FileSize: 10000MB Average Throughput: 0.196778 Mbps
+Alpha: 1 Beta: 4 Gamma: 2 FileSize: 100000MB Average Throughput: 0.196933 Mbps
+Alpha: 1 Beta: 4 Gamma: 2 FileSize: 1000000MB Average Throughput: 0.197015 Mbps
+Alpha: 1 Beta: 4 Gamma: 2 FileSize: 100000000MB Average Throughput: 0.197955 Mbps
+Alpha: 1 Beta: 4 Gamma: 3 FileSize: 1MB Average Throughput: 0.199523 Mbps
+Alpha: 1 Beta: 4 Gamma: 3 FileSize: 100MB Average Throughput: 0.196439 Mbps
+Alpha: 1 Beta: 4 Gamma: 3 FileSize: 1000MB Average Throughput: 0.197026 Mbps
+Alpha: 1 Beta: 4 Gamma: 3 FileSize: 10000MB Average Throughput: 0.198301 Mbps
+Alpha: 1 Beta: 4 Gamma: 3 FileSize: 100000MB Average Throughput: 0.199246 Mbps
+Alpha: 1 Beta: 4 Gamma: 3 FileSize: 1000000MB Average Throughput: 0.197957 Mbps
+Alpha: 1 Beta: 4 Gamma: 3 FileSize: 100000000MB Average Throughput: 0.196425 Mbps
+Alpha: 1 Beta: 5 Gamma: 1 FileSize: 1MB Average Throughput: 0.195429 Mbps
+Alpha: 1 Beta: 5 Gamma: 1 FileSize: 100MB Average Throughput: 0.199349 Mbps
+Alpha: 1 Beta: 5 Gamma: 1 FileSize: 1000MB Average Throughput: 0.19638 Mbps
+Alpha: 1 Beta: 5 Gamma: 1 FileSize: 10000MB Average Throughput: 0.197487 Mbps
+Alpha: 1 Beta: 5 Gamma: 1 FileSize: 100000MB Average Throughput: 0.198234 Mbps
+Alpha: 1 Beta: 5 Gamma: 1 FileSize: 1000000MB Average Throughput: 0.198013 Mbps
+Alpha: 1 Beta: 5 Gamma: 1 FileSize: 100000000MB Average Throughput: 0.195718 Mbps
+Alpha: 1 Beta: 5 Gamma: 2 FileSize: 1MB Average Throughput: 0.196884 Mbps
+Alpha: 1 Beta: 5 Gamma: 2 FileSize: 100MB Average Throughput: 0.196716 Mbps
+Alpha: 1 Beta: 5 Gamma: 2 FileSize: 1000MB Average Throughput: 0.198016 Mbps
+Alpha: 1 Beta: 5 Gamma: 2 FileSize: 10000MB Average Throughput: 0.197457 Mbps
+Alpha: 1 Beta: 5 Gamma: 2 FileSize: 100000MB Average Throughput: 0.198074 Mbps
+Alpha: 1 Beta: 5 Gamma: 2 FileSize: 1000000MB Average Throughput: 0.197867 Mbps
+Alpha: 1 Beta: 5 Gamma: 2 FileSize: 100000000MB Average Throughput: 0.19847 Mbps
+Alpha: 1 Beta: 5 Gamma: 3 FileSize: 1MB Average Throughput: 0.197332 Mbps
+Alpha: 1 Beta: 5 Gamma: 3 FileSize: 100MB Average Throughput: 0.198887 Mbps
+Alpha: 1 Beta: 5 Gamma: 3 FileSize: 1000MB Average Throughput: 0.198946 Mbps
+Alpha: 1 Beta: 5 Gamma: 3 FileSize: 10000MB Average Throughput: 0.197199 Mbps
+Alpha: 1 Beta: 5 Gamma: 3 FileSize: 100000MB Average Throughput: 0.19759 Mbps
+Alpha: 1 Beta: 5 Gamma: 3 FileSize: 1000000MB Average Throughput: 0.199377 Mbps
+Alpha: 1 Beta: 5 Gamma: 3 FileSize: 100000000MB Average Throughput: 0.196302 Mbps
+Alpha: 1 Beta: 6 Gamma: 1 FileSize: 1MB Average Throughput: 0.196412 Mbps
+Alpha: 1 Beta: 6 Gamma: 1 FileSize: 100MB Average Throughput: 0.198264 Mbps
+Alpha: 1 Beta: 6 Gamma: 1 FileSize: 1000MB Average Throughput: 0.197195 Mbps
+Alpha: 1 Beta: 6 Gamma: 1 FileSize: 10000MB Average Throughput: 0.19752 Mbps
+Alpha: 1 Beta: 6 Gamma: 1 FileSize: 100000MB Average Throughput: 0.198261 Mbps
+Alpha: 1 Beta: 6 Gamma: 1 FileSize: 1000000MB Average Throughput: 0.198168 Mbps
+Alpha: 1 Beta: 6 Gamma: 1 FileSize: 100000000MB Average Throughput: 0.198792 Mbps
+Alpha: 1 Beta: 6 Gamma: 2 FileSize: 1MB Average Throughput: 0.197647 Mbps
+Alpha: 1 Beta: 6 Gamma: 2 FileSize: 100MB Average Throughput: 0.198111 Mbps
+Alpha: 1 Beta: 6 Gamma: 2 FileSize: 1000MB Average Throughput: 0.197429 Mbps
+Alpha: 1 Beta: 6 Gamma: 2 FileSize: 10000MB Average Throughput: 0.197615 Mbps
+Alpha: 1 Beta: 6 Gamma: 2 FileSize: 100000MB Average Throughput: 0.197387 Mbps
+Alpha: 1 Beta: 6 Gamma: 2 FileSize: 1000000MB Average Throughput: 0.197107 Mbps
+Alpha: 1 Beta: 6 Gamma: 2 FileSize: 100000000MB Average Throughput: 0.195673 Mbps
+Alpha: 1 Beta: 6 Gamma: 3 FileSize: 1MB Average Throughput: 0.196383 Mbps
+Alpha: 1 Beta: 6 Gamma: 3 FileSize: 100MB Average Throughput: 0.198872 Mbps
+Alpha: 1 Beta: 6 Gamma: 3 FileSize: 1000MB Average Throughput: 0.199668 Mbps
+Alpha: 1 Beta: 6 Gamma: 3 FileSize: 10000MB Average Throughput: 0.19692 Mbps
+Alpha: 1 Beta: 6 Gamma: 3 FileSize: 100000MB Average Throughput: 0.199366 Mbps
+Alpha: 1 Beta: 6 Gamma: 3 FileSize: 1000000MB Average Throughput: 0.199095 Mbps
+Alpha: 1 Beta: 6 Gamma: 3 FileSize: 100000000MB Average Throughput: 0.198641 Mbps
+Alpha: 1 Beta: 7 Gamma: 1 FileSize: 1MB Average Throughput: 0.195265 Mbps
+Alpha: 1 Beta: 7 Gamma: 1 FileSize: 100MB Average Throughput: 0.197243 Mbps
+Alpha: 1 Beta: 7 Gamma: 1 FileSize: 1000MB Average Throughput: 0.197271 Mbps
+Alpha: 1 Beta: 7 Gamma: 1 FileSize: 10000MB Average Throughput: 0.198762 Mbps
+Alpha: 1 Beta: 7 Gamma: 1 FileSize: 100000MB Average Throughput: 0.198284 Mbps
+Alpha: 1 Beta: 7 Gamma: 1 FileSize: 1000000MB Average Throughput: 0.196429 Mbps
+Alpha: 1 Beta: 7 Gamma: 1 FileSize: 100000000MB Average Throughput: 0.196466 Mbps
+Alpha: 1 Beta: 7 Gamma: 2 FileSize: 1MB Average Throughput: 0.198675 Mbps
+Alpha: 1 Beta: 7 Gamma: 2 FileSize: 100MB Average Throughput: 0.19709 Mbps
+Alpha: 1 Beta: 7 Gamma: 2 FileSize: 1000MB Average Throughput: 0.197532 Mbps
+Alpha: 1 Beta: 7 Gamma: 2 FileSize: 10000MB Average Throughput: 0.19961 Mbps
+Alpha: 1 Beta: 7 Gamma: 2 FileSize: 100000MB Average Throughput: 0.197306 Mbps
+Alpha: 1 Beta: 7 Gamma: 2 FileSize: 1000000MB Average Throughput: 0.19691 Mbps
+Alpha: 1 Beta: 7 Gamma: 2 FileSize: 100000000MB Average Throughput: 0.201012 Mbps
+Alpha: 1 Beta: 7 Gamma: 3 FileSize: 1MB Average Throughput: 0.198036 Mbps
+Alpha: 1 Beta: 7 Gamma: 3 FileSize: 100MB Average Throughput: 0.197527 Mbps
+Alpha: 1 Beta: 7 Gamma: 3 FileSize: 1000MB Average Throughput: 0.199342 Mbps
+Alpha: 1 Beta: 7 Gamma: 3 FileSize: 10000MB Average Throughput: 0.196548 Mbps
+Alpha: 1 Beta: 7 Gamma: 3 FileSize: 100000MB Average Throughput: 0.19769 Mbps
+Alpha: 1 Beta: 7 Gamma: 3 FileSize: 1000000MB Average Throughput: 0.198273 Mbps
+Alpha: 1 Beta: 7 Gamma: 3 FileSize: 100000000MB Average Throughput: 0.197739 Mbps
+Alpha: 1 Beta: 8 Gamma: 1 FileSize: 1MB Average Throughput: 0.196553 Mbps
+Alpha: 1 Beta: 8 Gamma: 1 FileSize: 100MB Average Throughput: 0.198162 Mbps
+Alpha: 1 Beta: 8 Gamma: 1 FileSize: 1000MB Average Throughput: 0.198068 Mbps
+Alpha: 1 Beta: 8 Gamma: 1 FileSize: 10000MB Average Throughput: 0.196269 Mbps
+Alpha: 1 Beta: 8 Gamma: 1 FileSize: 100000MB Average Throughput: 0.196887 Mbps
+Alpha: 1 Beta: 8 Gamma: 1 FileSize: 1000000MB Average Throughput: 0.198805 Mbps
+Alpha: 1 Beta: 8 Gamma: 1 FileSize: 100000000MB Average Throughput: 0.199668 Mbps
+Alpha: 1 Beta: 8 Gamma: 2 FileSize: 1MB Average Throughput: 0.194878 Mbps
+Alpha: 1 Beta: 8 Gamma: 2 FileSize: 100MB Average Throughput: 0.197861 Mbps
+Alpha: 1 Beta: 8 Gamma: 2 FileSize: 1000MB Average Throughput: 0.197508 Mbps
+Alpha: 1 Beta: 8 Gamma: 2 FileSize: 10000MB Average Throughput: 0.197465 Mbps
+Alpha: 1 Beta: 8 Gamma: 2 FileSize: 100000MB Average Throughput: 0.1958 Mbps
+Alpha: 1 Beta: 8 Gamma: 2 FileSize: 1000000MB Average Throughput: 0.197414 Mbps
+Alpha: 1 Beta: 8 Gamma: 2 FileSize: 100000000MB Average Throughput: 0.198361 Mbps
+Alpha: 1 Beta: 8 Gamma: 3 FileSize: 1MB Average Throughput: 0.199263 Mbps
+Alpha: 1 Beta: 8 Gamma: 3 FileSize: 100MB Average Throughput: 0.196749 Mbps
+Alpha: 1 Beta: 8 Gamma: 3 FileSize: 1000MB Average Throughput: 0.198093 Mbps
+Alpha: 1 Beta: 8 Gamma: 3 FileSize: 10000MB Average Throughput: 0.196682 Mbps
+Alpha: 1 Beta: 8 Gamma: 3 FileSize: 100000MB Average Throughput: 0.196652 Mbps
+Alpha: 1 Beta: 8 Gamma: 3 FileSize: 1000000MB Average Throughput: 0.197732 Mbps
+Alpha: 1 Beta: 8 Gamma: 3 FileSize: 100000000MB Average Throughput: 0.195916 Mbps
+Alpha: 1 Beta: 9 Gamma: 1 FileSize: 1MB Average Throughput: 0.197238 Mbps
+Alpha: 1 Beta: 9 Gamma: 1 FileSize: 100MB Average Throughput: 0.199398 Mbps
+Alpha: 1 Beta: 9 Gamma: 1 FileSize: 1000MB Average Throughput: 0.198468 Mbps
+Alpha: 1 Beta: 9 Gamma: 1 FileSize: 10000MB Average Throughput: 0.196944 Mbps
+Alpha: 1 Beta: 9 Gamma: 1 FileSize: 100000MB Average Throughput: 0.197185 Mbps
+Alpha: 1 Beta: 9 Gamma: 1 FileSize: 1000000MB Average Throughput: 0.19833 Mbps
+Alpha: 1 Beta: 9 Gamma: 1 FileSize: 100000000MB Average Throughput: 0.198882 Mbps
+Alpha: 1 Beta: 9 Gamma: 2 FileSize: 1MB Average Throughput: 0.196777 Mbps
+Alpha: 1 Beta: 9 Gamma: 2 FileSize: 100MB Average Throughput: 0.200043 Mbps
+Alpha: 1 Beta: 9 Gamma: 2 FileSize: 1000MB Average Throughput: 0.19887 Mbps
+Alpha: 1 Beta: 9 Gamma: 2 FileSize: 10000MB Average Throughput: 0.199401 Mbps
+Alpha: 1 Beta: 9 Gamma: 2 FileSize: 100000MB Average Throughput: 0.197672 Mbps
+Alpha: 1 Beta: 9 Gamma: 2 FileSize: 1000000MB Average Throughput: 0.198362 Mbps
+Alpha: 1 Beta: 9 Gamma: 2 FileSize: 100000000MB Average Throughput: 0.195546 Mbps
+Alpha: 1 Beta: 9 Gamma: 3 FileSize: 1MB Average Throughput: 0.196951 Mbps
+Alpha: 1 Beta: 9 Gamma: 3 FileSize: 100MB Average Throughput: 0.199545 Mbps
+Alpha: 1 Beta: 9 Gamma: 3 FileSize: 1000MB Average Throughput: 0.19546 Mbps
+Alpha: 1 Beta: 9 Gamma: 3 FileSize: 10000MB Average Throughput: 0.197034 Mbps
+Alpha: 1 Beta: 9 Gamma: 3 FileSize: 100000MB Average Throughput: 0.198598 Mbps
+Alpha: 1 Beta: 9 Gamma: 3 FileSize: 1000000MB Average Throughput: 0.197581 Mbps
+Alpha: 1 Beta: 9 Gamma: 3 FileSize: 100000000MB Average Throughput: 0.197055 Mbps
+Alpha: 1 Beta: 10 Gamma: 1 FileSize: 1MB Average Throughput: 0.197028 Mbps
+Alpha: 1 Beta: 10 Gamma: 1 FileSize: 100MB Average Throughput: 0.19765 Mbps
+Alpha: 1 Beta: 10 Gamma: 1 FileSize: 1000MB Average Throughput: 0.199809 Mbps
+Alpha: 1 Beta: 10 Gamma: 1 FileSize: 10000MB Average Throughput: 0.195834 Mbps
+Alpha: 1 Beta: 10 Gamma: 1 FileSize: 100000MB Average Throughput: 0.199041 Mbps
+Alpha: 1 Beta: 10 Gamma: 1 FileSize: 1000000MB Average Throughput: 0.196806 Mbps
+Alpha: 1 Beta: 10 Gamma: 1 FileSize: 100000000MB Average Throughput: 0.196134 Mbps
+Alpha: 1 Beta: 10 Gamma: 2 FileSize: 1MB Average Throughput: 0.197556 Mbps
+Alpha: 1 Beta: 10 Gamma: 2 FileSize: 100MB Average Throughput: 0.195535 Mbps
+Alpha: 1 Beta: 10 Gamma: 2 FileSize: 1000MB Average Throughput: 0.195685 Mbps
+Alpha: 1 Beta: 10 Gamma: 2 FileSize: 10000MB Average Throughput: 0.196532 Mbps
+Alpha: 1 Beta: 10 Gamma: 2 FileSize: 100000MB Average Throughput: 0.196685 Mbps
+Alpha: 1 Beta: 10 Gamma: 2 FileSize: 1000000MB Average Throughput: 0.200073 Mbps
+Alpha: 1 Beta: 10 Gamma: 2 FileSize: 100000000MB Average Throughput: 0.195735 Mbps
+Alpha: 1 Beta: 10 Gamma: 3 FileSize: 1MB Average Throughput: 0.196993 Mbps
+Alpha: 1 Beta: 10 Gamma: 3 FileSize: 100MB Average Throughput: 0.196941 Mbps
+Alpha: 1 Beta: 10 Gamma: 3 FileSize: 1000MB Average Throughput: 0.198324 Mbps
+Alpha: 1 Beta: 10 Gamma: 3 FileSize: 10000MB Average Throughput: 0.197886 Mbps
+Alpha: 1 Beta: 10 Gamma: 3 FileSize: 100000MB Average Throughput: 0.199016 Mbps
+Alpha: 1 Beta: 10 Gamma: 3 FileSize: 1000000MB Average Throughput: 0.195763 Mbps
+Alpha: 1 Beta: 10 Gamma: 3 FileSize: 100000000MB Average Throughput: 0.198508 Mbps
+Alpha: 1 Beta: 11 Gamma: 1 FileSize: 1MB Average Throughput: 0.196103 Mbps
+Alpha: 1 Beta: 11 Gamma: 1 FileSize: 100MB Average Throughput: 0.199715 Mbps
+Alpha: 1 Beta: 11 Gamma: 1 FileSize: 1000MB Average Throughput: 0.199292 Mbps
+Alpha: 1 Beta: 11 Gamma: 1 FileSize: 10000MB Average Throughput: 0.198853 Mbps
+Alpha: 1 Beta: 11 Gamma: 1 FileSize: 100000MB Average Throughput: 0.197465 Mbps
+Alpha: 1 Beta: 11 Gamma: 1 FileSize: 1000000MB Average Throughput: 0.19969 Mbps
+Alpha: 1 Beta: 11 Gamma: 1 FileSize: 100000000MB Average Throughput: 0.199532 Mbps
+Alpha: 1 Beta: 11 Gamma: 2 FileSize: 1MB Average Throughput: 0.195738 Mbps
+Alpha: 1 Beta: 11 Gamma: 2 FileSize: 100MB Average Throughput: 0.198379 Mbps
+Alpha: 1 Beta: 11 Gamma: 2 FileSize: 1000MB Average Throughput: 0.198133 Mbps
+Alpha: 1 Beta: 11 Gamma: 2 FileSize: 10000MB Average Throughput: 0.198987 Mbps
+Alpha: 1 Beta: 11 Gamma: 2 FileSize: 100000MB Average Throughput: 0.197019 Mbps
+Alpha: 1 Beta: 11 Gamma: 2 FileSize: 1000000MB Average Throughput: 0.195943 Mbps
+Alpha: 1 Beta: 11 Gamma: 2 FileSize: 100000000MB Average Throughput: 0.195668 Mbps
+Alpha: 1 Beta: 11 Gamma: 3 FileSize: 1MB Average Throughput: 0.195276 Mbps
+Alpha: 1 Beta: 11 Gamma: 3 FileSize: 100MB Average Throughput: 0.197511 Mbps
+Alpha: 1 Beta: 11 Gamma: 3 FileSize: 1000MB Average Throughput: 0.196845 Mbps
+Alpha: 1 Beta: 11 Gamma: 3 FileSize: 10000MB Average Throughput: 0.198181 Mbps
+Alpha: 1 Beta: 11 Gamma: 3 FileSize: 100000MB Average Throughput: 0.196952 Mbps
+Alpha: 1 Beta: 11 Gamma: 3 FileSize: 1000000MB Average Throughput: 0.196575 Mbps
+Alpha: 1 Beta: 11 Gamma: 3 FileSize: 100000000MB Average Throughput: 0.197424 Mbps
+Alpha: 1 Beta: 12 Gamma: 1 FileSize: 1MB Average Throughput: 0.197808 Mbps
+Alpha: 1 Beta: 12 Gamma: 1 FileSize: 100MB Average Throughput: 0.197911 Mbps
+Alpha: 1 Beta: 12 Gamma: 1 FileSize: 1000MB Average Throughput: 0.198061 Mbps
+Alpha: 1 Beta: 12 Gamma: 1 FileSize: 10000MB Average Throughput: 0.19786 Mbps
+Alpha: 1 Beta: 12 Gamma: 1 FileSize: 100000MB Average Throughput: 0.197708 Mbps
+Alpha: 1 Beta: 12 Gamma: 1 FileSize: 1000000MB Average Throughput: 0.199214 Mbps
+Alpha: 1 Beta: 12 Gamma: 1 FileSize: 100000000MB Average Throughput: 0.199557 Mbps
+Alpha: 1 Beta: 12 Gamma: 2 FileSize: 1MB Average Throughput: 0.198635 Mbps
+Alpha: 1 Beta: 12 Gamma: 2 FileSize: 100MB Average Throughput: 0.196464 Mbps
+Alpha: 1 Beta: 12 Gamma: 2 FileSize: 1000MB Average Throughput: 0.197533 Mbps
+Alpha: 1 Beta: 12 Gamma: 2 FileSize: 10000MB Average Throughput: 0.194889 Mbps
+Alpha: 1 Beta: 12 Gamma: 2 FileSize: 100000MB Average Throughput: 0.198802 Mbps
+Alpha: 1 Beta: 12 Gamma: 2 FileSize: 1000000MB Average Throughput: 0.197362 Mbps
+Alpha: 1 Beta: 12 Gamma: 2 FileSize: 100000000MB Average Throughput: 0.197112 Mbps
+Alpha: 1 Beta: 12 Gamma: 3 FileSize: 1MB Average Throughput: 0.196541 Mbps
+Alpha: 1 Beta: 12 Gamma: 3 FileSize: 100MB Average Throughput: 0.198081 Mbps
+Alpha: 1 Beta: 12 Gamma: 3 FileSize: 1000MB Average Throughput: 0.196284 Mbps
+Alpha: 1 Beta: 12 Gamma: 3 FileSize: 10000MB Average Throughput: 0.196731 Mbps
+Alpha: 1 Beta: 12 Gamma: 3 FileSize: 100000MB Average Throughput: 0.199269 Mbps
+Alpha: 1 Beta: 12 Gamma: 3 FileSize: 1000000MB Average Throughput: 0.198044 Mbps
+Alpha: 1 Beta: 12 Gamma: 3 FileSize: 100000000MB Average Throughput: 0.199502 Mbps
+Alpha: 1 Beta: 13 Gamma: 1 FileSize: 1MB Average Throughput: 0.198477 Mbps
+Alpha: 1 Beta: 13 Gamma: 1 FileSize: 100MB Average Throughput: 0.195341 Mbps
+Alpha: 1 Beta: 13 Gamma: 1 FileSize: 1000MB Average Throughput: 0.1971 Mbps
+Alpha: 1 Beta: 13 Gamma: 1 FileSize: 10000MB Average Throughput: 0.19845 Mbps
+Alpha: 1 Beta: 13 Gamma: 1 FileSize: 100000MB Average Throughput: 0.197695 Mbps
+Alpha: 1 Beta: 13 Gamma: 1 FileSize: 1000000MB Average Throughput: 0.199581 Mbps
+Alpha: 1 Beta: 13 Gamma: 1 FileSize: 100000000MB Average Throughput: 0.198174 Mbps
+Alpha: 1 Beta: 13 Gamma: 2 FileSize: 1MB Average Throughput: 0.196735 Mbps
+Alpha: 1 Beta: 13 Gamma: 2 FileSize: 100MB Average Throughput: 0.198987 Mbps
+Alpha: 1 Beta: 13 Gamma: 2 FileSize: 1000MB Average Throughput: 0.197176 Mbps
+Alpha: 1 Beta: 13 Gamma: 2 FileSize: 10000MB Average Throughput: 0.198918 Mbps
+Alpha: 1 Beta: 13 Gamma: 2 FileSize: 100000MB Average Throughput: 0.196314 Mbps
+Alpha: 1 Beta: 13 Gamma: 2 FileSize: 1000000MB Average Throughput: 0.198673 Mbps
+Alpha: 1 Beta: 13 Gamma: 2 FileSize: 100000000MB Average Throughput: 0.196828 Mbps
+Alpha: 1 Beta: 13 Gamma: 3 FileSize: 1MB Average Throughput: 0.196909 Mbps
+Alpha: 1 Beta: 13 Gamma: 3 FileSize: 100MB Average Throughput: 0.19798 Mbps
+Alpha: 1 Beta: 13 Gamma: 3 FileSize: 1000MB Average Throughput: 0.194897 Mbps
+Alpha: 1 Beta: 13 Gamma: 3 FileSize: 10000MB Average Throughput: 0.200586 Mbps
+Alpha: 1 Beta: 13 Gamma: 3 FileSize: 100000MB Average Throughput: 0.198 Mbps
+Alpha: 1 Beta: 13 Gamma: 3 FileSize: 1000000MB Average Throughput: 0.198487 Mbps
+Alpha: 1 Beta: 13 Gamma: 3 FileSize: 100000000MB Average Throughput: 0.197917 Mbps
+Alpha: 1 Beta: 14 Gamma: 1 FileSize: 1MB Average Throughput: 0.20141 Mbps
+Alpha: 1 Beta: 14 Gamma: 1 FileSize: 100MB Average Throughput: 0.198106 Mbps
+Alpha: 1 Beta: 14 Gamma: 1 FileSize: 1000MB Average Throughput: 0.197861 Mbps
+Alpha: 1 Beta: 14 Gamma: 1 FileSize: 10000MB Average Throughput: 0.198223 Mbps
+Alpha: 1 Beta: 14 Gamma: 1 FileSize: 100000MB Average Throughput: 0.196712 Mbps
+Alpha: 1 Beta: 14 Gamma: 1 FileSize: 1000000MB Average Throughput: 0.195383 Mbps
+Alpha: 1 Beta: 14 Gamma: 1 FileSize: 100000000MB Average Throughput: 0.200948 Mbps
+Alpha: 1 Beta: 14 Gamma: 2 FileSize: 1MB Average Throughput: 0.197444 Mbps
+Alpha: 1 Beta: 14 Gamma: 2 FileSize: 100MB Average Throughput: 0.199074 Mbps
+Alpha: 1 Beta: 14 Gamma: 2 FileSize: 1000MB Average Throughput: 0.198371 Mbps
+Alpha: 1 Beta: 14 Gamma: 2 FileSize: 10000MB Average Throughput: 0.196239 Mbps
+Alpha: 1 Beta: 14 Gamma: 2 FileSize: 100000MB Average Throughput: 0.199049 Mbps
+Alpha: 1 Beta: 14 Gamma: 2 FileSize: 1000000MB Average Throughput: 0.196612 Mbps
+Alpha: 1 Beta: 14 Gamma: 2 FileSize: 100000000MB Average Throughput: 0.199857 Mbps
+Alpha: 1 Beta: 14 Gamma: 3 FileSize: 1MB Average Throughput: 0.197356 Mbps
+Alpha: 1 Beta: 14 Gamma: 3 FileSize: 100MB Average Throughput: 0.196884 Mbps
+Alpha: 1 Beta: 14 Gamma: 3 FileSize: 1000MB Average Throughput: 0.195395 Mbps
+Alpha: 1 Beta: 14 Gamma: 3 FileSize: 10000MB Average Throughput: 0.195884 Mbps
+Alpha: 1 Beta: 14 Gamma: 3 FileSize: 100000MB Average Throughput: 0.199313 Mbps
+Alpha: 1 Beta: 14 Gamma: 3 FileSize: 1000000MB Average Throughput: 0.197415 Mbps
+Alpha: 1 Beta: 14 Gamma: 3 FileSize: 100000000MB Average Throughput: 0.197906 Mbps
+Alpha: 1 Beta: 15 Gamma: 1 FileSize: 1MB Average Throughput: 0.196449 Mbps
+Alpha: 1 Beta: 15 Gamma: 1 FileSize: 100MB Average Throughput: 0.198122 Mbps
+Alpha: 1 Beta: 15 Gamma: 1 FileSize: 1000MB Average Throughput: 0.195864 Mbps
+Alpha: 1 Beta: 15 Gamma: 1 FileSize: 10000MB Average Throughput: 0.195731 Mbps
+Alpha: 1 Beta: 15 Gamma: 1 FileSize: 100000MB Average Throughput: 0.197156 Mbps
+Alpha: 1 Beta: 15 Gamma: 1 FileSize: 1000000MB Average Throughput: 0.198556 Mbps
+Alpha: 1 Beta: 15 Gamma: 1 FileSize: 100000000MB Average Throughput: 0.196348 Mbps
+Alpha: 1 Beta: 15 Gamma: 2 FileSize: 1MB Average Throughput: 0.198701 Mbps
+Alpha: 1 Beta: 15 Gamma: 2 FileSize: 100MB Average Throughput: 0.197418 Mbps
+Alpha: 1 Beta: 15 Gamma: 2 FileSize: 1000MB Average Throughput: 0.196452 Mbps
+Alpha: 1 Beta: 15 Gamma: 2 FileSize: 10000MB Average Throughput: 0.196799 Mbps
+Alpha: 1 Beta: 15 Gamma: 2 FileSize: 100000MB Average Throughput: 0.197004 Mbps
+Alpha: 1 Beta: 15 Gamma: 2 FileSize: 1000000MB Average Throughput: 0.197099 Mbps
+Alpha: 1 Beta: 15 Gamma: 2 FileSize: 100000000MB Average Throughput: 0.197413 Mbps
+Alpha: 1 Beta: 15 Gamma: 3 FileSize: 1MB Average Throughput: 0.199285 Mbps
+Alpha: 1 Beta: 15 Gamma: 3 FileSize: 100MB Average Throughput: 0.199347 Mbps
+Alpha: 1 Beta: 15 Gamma: 3 FileSize: 1000MB Average Throughput: 0.19867 Mbps
+Alpha: 1 Beta: 15 Gamma: 3 FileSize: 10000MB Average Throughput: 0.196731 Mbps
+Alpha: 1 Beta: 15 Gamma: 3 FileSize: 100000MB Average Throughput: 0.198737 Mbps
+Alpha: 1 Beta: 15 Gamma: 3 FileSize: 1000000MB Average Throughput: 0.19759 Mbps
+Alpha: 1 Beta: 15 Gamma: 3 FileSize: 100000000MB Average Throughput: 0.197121 Mbps
+Alpha: 1 Beta: 16 Gamma: 1 FileSize: 1MB Average Throughput: 0.197135 Mbps
+Alpha: 1 Beta: 16 Gamma: 1 FileSize: 100MB Average Throughput: 0.198694 Mbps
+Alpha: 1 Beta: 16 Gamma: 1 FileSize: 1000MB Average Throughput: 0.198332 Mbps
+Alpha: 1 Beta: 16 Gamma: 1 FileSize: 10000MB Average Throughput: 0.196916 Mbps
+Alpha: 1 Beta: 16 Gamma: 1 FileSize: 100000MB Average Throughput: 0.197748 Mbps
+Alpha: 1 Beta: 16 Gamma: 1 FileSize: 1000000MB Average Throughput: 0.197642 Mbps
+Alpha: 1 Beta: 16 Gamma: 1 FileSize: 100000000MB Average Throughput: 0.197839 Mbps
+Alpha: 1 Beta: 16 Gamma: 2 FileSize: 1MB Average Throughput: 0.198754 Mbps
+Alpha: 1 Beta: 16 Gamma: 2 FileSize: 100MB Average Throughput: 0.197459 Mbps
+Alpha: 1 Beta: 16 Gamma: 2 FileSize: 1000MB Average Throughput: 0.196382 Mbps
+Alpha: 1 Beta: 16 Gamma: 2 FileSize: 10000MB Average Throughput: 0.196578 Mbps
+Alpha: 1 Beta: 16 Gamma: 2 FileSize: 100000MB Average Throughput: 0.198584 Mbps
+Alpha: 1 Beta: 16 Gamma: 2 FileSize: 1000000MB Average Throughput: 0.196215 Mbps
+Alpha: 1 Beta: 16 Gamma: 2 FileSize: 100000000MB Average Throughput: 0.199263 Mbps
+Alpha: 1 Beta: 16 Gamma: 3 FileSize: 1MB Average Throughput: 0.198491 Mbps
+Alpha: 1 Beta: 16 Gamma: 3 FileSize: 100MB Average Throughput: 0.195762 Mbps
+Alpha: 1 Beta: 16 Gamma: 3 FileSize: 1000MB Average Throughput: 0.197535 Mbps
+Alpha: 1 Beta: 16 Gamma: 3 FileSize: 10000MB Average Throughput: 0.196852 Mbps
+Alpha: 1 Beta: 16 Gamma: 3 FileSize: 100000MB Average Throughput: 0.195294 Mbps
+Alpha: 1 Beta: 16 Gamma: 3 FileSize: 1000000MB Average Throughput: 0.198231 Mbps
+Alpha: 1 Beta: 16 Gamma: 3 FileSize: 100000000MB Average Throughput: 0.1992 Mbps
+Alpha: 1 Beta: 17 Gamma: 1 FileSize: 1MB Average Throughput: 0.197043 Mbps
+Alpha: 1 Beta: 17 Gamma: 1 FileSize: 100MB Average Throughput: 0.198507 Mbps
+Alpha: 1 Beta: 17 Gamma: 1 FileSize: 1000MB Average Throughput: 0.195042 Mbps
+Alpha: 1 Beta: 17 Gamma: 1 FileSize: 10000MB Average Throughput: 0.195933 Mbps
+Alpha: 1 Beta: 17 Gamma: 1 FileSize: 100000MB Average Throughput: 0.197785 Mbps
+Alpha: 1 Beta: 17 Gamma: 1 FileSize: 1000000MB Average Throughput: 0.196783 Mbps
+Alpha: 1 Beta: 17 Gamma: 1 FileSize: 100000000MB Average Throughput: 0.197628 Mbps
+Alpha: 1 Beta: 17 Gamma: 2 FileSize: 1MB Average Throughput: 0.197648 Mbps
+Alpha: 1 Beta: 17 Gamma: 2 FileSize: 100MB Average Throughput: 0.198442 Mbps
+Alpha: 1 Beta: 17 Gamma: 2 FileSize: 1000MB Average Throughput: 0.195863 Mbps
+Alpha: 1 Beta: 17 Gamma: 2 FileSize: 10000MB Average Throughput: 0.1971 Mbps
+Alpha: 1 Beta: 17 Gamma: 2 FileSize: 100000MB Average Throughput: 0.197521 Mbps
+Alpha: 1 Beta: 17 Gamma: 2 FileSize: 1000000MB Average Throughput: 0.198664 Mbps
+Alpha: 1 Beta: 17 Gamma: 2 FileSize: 100000000MB Average Throughput: 0.19693 Mbps
+Alpha: 1 Beta: 17 Gamma: 3 FileSize: 1MB Average Throughput: 0.199619 Mbps
+Alpha: 1 Beta: 17 Gamma: 3 FileSize: 100MB Average Throughput: 0.196606 Mbps
+Alpha: 1 Beta: 17 Gamma: 3 FileSize: 1000MB Average Throughput: 0.197192 Mbps
